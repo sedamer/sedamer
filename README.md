@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Personal Portfolio Blog WebSite**
 
-- 🌱 I’m currently learning **React.Js , Node.Js**
+- 🌱 I’m currently learning **Js , React.Js**
 
 - 📫 How to reach me **mrcnsedaa@gmail.com**
 
