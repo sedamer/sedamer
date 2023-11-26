@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sedamer&label=Profile%20views&color=0e75b6&style=flat" alt="sedamer" /> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio Blog WebSite**
-
 - 🌱 I’m currently learning **Js , React.Js**
 
 - 📫 How to reach me **mrcnsedaa@gmail.com**
