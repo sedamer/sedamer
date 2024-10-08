@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sedamer&label=Profile%20views&color=0e75b6&style=flat" alt="sedamer" /> </p>
 
 
-- 🌱 I’m currently learning **React Native**
-
 - 👨‍💻 Here is my portfolio website [My Website](https://react-js-portfolio-6zaai3nk4-seda-mercans-projects.vercel.app/)
 
 - 💬 Ask me about **Frontend development and Project Management**
