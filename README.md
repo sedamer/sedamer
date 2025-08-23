@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seda</h1>
-<h3 align="center">Front-end Developer</h3>
+<h3 align="center">Project Manager & Computer Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sedamer&label=Profile%20views&color=0e75b6&style=flat" alt="sedamer" /> </p>
+- 👨‍💻 Let's visit my [web site](https://me-rho-ruddy-47.vercel.app/)
 
 - 💬 Ask me about **Frontend development and Project Management**
 
