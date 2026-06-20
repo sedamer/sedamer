@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seda</h1>
 <h3 align="center">Project Manager & Computer Engineer</h3>
 
-- 👨‍💻 Let's visit my [web site](https://me-rho-ruddy-47.vercel.app/)
-
 - 💬 Ask me about **Frontend development and Project Management**
 
 - 📫 How to reach me **mrcnsedaa@gmail.com**
